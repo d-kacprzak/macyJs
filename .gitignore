@@ -1,0 +1,7 @@
+config
+description
+HEAD
+/info
+/objects
+/refs
+/hooks
